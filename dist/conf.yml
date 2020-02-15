@@ -1,0 +1,43 @@
+# 开启随机壁纸
+random_cover: true
+# 网页标题
+html_title: NAS导航页 | 陈睿
+# logo标语
+logo: Hi!
+# 座右铭,不写留空,自动调一言随机接口
+motto: # 无与伦比的追求冰冷地敲打着我的灵魂
+# 底部信息
+copyright: ©2019 - 陈睿 | NAS 导航页 | 苏ICP备19008833号
+# 配置
+conf:
+  # icon地址:https://fontawesome.com/icons,左侧勾选free,选择图标
+  - icon: fas cloud
+    text: 云盘
+    link: http://chenrui.cloud:10599
+  - icon: fas blog
+    text: 点滴
+    link: https://chenrui.cloud:9100
+  - icon: fas images
+    text: 相册
+    link: http://chenrui.cloud:10598
+  - icon: fas quran
+    text: 法典
+    link: https://www.npmrundev.com/docs
+  - icon: fas server
+    text: 群晖
+    link: https://chenrui.cloud:5001
+  - icon: fas music
+    text: 听歌
+    link: http://chenrui.cloud:8800/
+  - icon: fab github
+    text: github
+    link: https://github.com/chenrrrrr
+  - icon: fas cogs
+    text: gogs
+    link: http://chenrui.cloud:10080/
+  - icon: fab readme
+    text: 简历
+    link: https://www.npmrundev.com/resume/
+  - icon: fab qq
+    text: 企鹅
+    link: tencent://message/?uin=121955505&Site=Sambow&Menu=yes

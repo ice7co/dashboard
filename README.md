@@ -4,7 +4,7 @@
 
 ## 示例
 
-演示地址：[https://chenrui.cloud:12345](https://chenrui.cloud:12345)
+演示地址：[https://nas.npmrundev.com/](https://nas.npmrundev.com/)
 
 ![演示图片](./demo.png)
 
@@ -37,8 +37,14 @@
 
 ## 配置文件
 
-配置文件采用了简单易懂的`yaml`语法，当`yarn`打包后的`dist`文件部署打牌`nginx`之流的服务器上，会自动解析`conf.yml`并且渲染到页面中，可参考本例项目中的`conf.yml`配置
+配置文件采用了简单易懂的`yaml`语法，序会自动解析`conf.yml`并且渲染到页面中，可参考本例项目中的`conf.yml`
+
+ - 配置图标：使用`FontAwesome5`，访问[FontAwesome5](https://fontawesome.com/icons)找到对应图表明，配置到`conf.yml`中，注意前缀`fas`,`fab`别弄错了
+
+## 部署
+
+下载`dist.zip`文件部署扔到`nginx`之流的服务器上
 
 ## 下载
 
-[最新下载地址](https://chenrui.cloud:9100/index.php/archives/6/)
+下载`dist.zip`
