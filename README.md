@@ -4,7 +4,7 @@
 
 ## 示例
 
-演示地址：[https://nas.npmrundev.com/](https://nas.npmrundev.com/)
+演示地址：[https://nas.mozzie.com/](https://nas.mozzie.com/)
 
 ![演示图片](./demo.png)
 
