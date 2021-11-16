@@ -1,5 +1,5 @@
 // unsplash壁纸接口
-export const UNSPLASH_API = 'https://source.unsplash.com/user/erondu/1920x1080';
+export const UNSPLASH_API = 'https://source.unsplash.com/1920x1080/?nature';
 // 默认主题配色 - 红
 export const DEFAULT_COVER_RED = `background-image: linear-gradient(135deg, #ffaa85 10%, #b3315f 100%)`;
 // 默认主题配色 - 绿
